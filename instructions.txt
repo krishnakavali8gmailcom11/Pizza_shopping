@@ -1,0 +1,6 @@
+## Install packages by using the below command.
+npm install
+
+
+## Run the node server by using the below command.
+npm start
